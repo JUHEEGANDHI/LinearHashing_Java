@@ -1,3 +1,7 @@
+/*
+LINEAR HASHING
+AUTHOR - JUHEE GANDHI
+*/
 package advdatastructureshashing;
 import java.io.*;
 import java.util.*;
